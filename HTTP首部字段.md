@@ -13,5 +13,3 @@
 针对请求报文和响应报文的实体部分使用的首部。补充了资源内容更新时间等与实体有关的信息。
 
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/409695/1677682506225-ef8596eb-b9f1-4712-872a-ac40dfa0c129.png#averageHue=%23ececec&clientId=u75bc59fe-773b-4&from=paste&height=409&id=uaef9725d&name=image.png&originHeight=511&originWidth=868&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=196051&status=done&style=none&taskId=u74e61897-1c2b-431f-9e96-29fe037b7a2&title=&width=694.4)
-
-30971zhuTT..
